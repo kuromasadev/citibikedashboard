@@ -37,7 +37,7 @@ City officials have questions about the program, so the first task on the job is
 
 ## layout sketches
 
-![](E:\Dropbox\Dropbox\GRADRICE - DA\RDA_reference_repo\citibikedashboard\img\storylinesketch.png)
+![](img/storylinesketch.png)
 
 ## aggregating data
 
