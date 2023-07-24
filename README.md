@@ -3,7 +3,7 @@
 
 ## direct link
 
-[Citibike Dashboard]([https://public.tableau.com/app/profile/kuromasa.dev/viz/CitiBike2023Dashboard/Dashboard1](https://public.tableau.com/views/CitiBike2023Dashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[Citibike Dashboard](https://public.tableau.com/views/CitiBike2023Dashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 
